@@ -43,7 +43,7 @@
   },
   "peerDependencies": {
     "contentlayer": "0.3.4",
-    "next": "^12 || ^13",
+    "next": "^12 || ^13 || ^14",
     "react": "*",
     "react-dom": "*"
   },
