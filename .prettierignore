@@ -1,5 +1,0 @@
-packages/_archive/*
-**/.contentlayer/*
-**/fixtures/**/*.yaml
-**/dist/*
-**/.nyc_output/*
